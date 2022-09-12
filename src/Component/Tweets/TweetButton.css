@@ -1,0 +1,17 @@
+.tweetButtonEnable {
+    background-color : rgb(29, 155, 240);
+    border-radius : 20px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.tweetButtonDisable {
+    background-color: darkgrey;
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold
+}
